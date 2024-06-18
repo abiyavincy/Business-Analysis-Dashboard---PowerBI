@@ -7,4 +7,9 @@ This analysis aims to find insights about Argo Solutions Performance and Client 
 3. Root Cause Analysis for a Problem
 4. Suggestions to improve the Business
 
-And also along with the Datasets and Dashboard, I've also attached a document which gives a detailed view on my findings and the Goal of this Project
+# This project involves the creation of a comprehensive business analysis dashboard using PowerBI. It includes the following key components:
+
+Dataset: Detailed data sourced and preprocessed for analysis.
+Dashboard: An interactive PowerBI dashboard designed to visualize key business metrics and trends.
+Documentation: Comprehensive documentation outlining the data sources, preprocessing steps, analytical methods, and insights derived from the data.
+The objective of this project is to demonstrate proficiency in data analysis and visualization tools, providing actionable business insights through a user-friendly interface.
